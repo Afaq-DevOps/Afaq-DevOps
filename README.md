@@ -51,22 +51,31 @@
 
 <h3 align="left">🚀 DevOps & Cloud Expertise</h3>
 
-- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI, Azure DevOps Pipelines, ArgoCD, Spinnaker, Harness  
-- **Containerization & Orchestration**: Docker, Kubernetes (kubeadm, EKS, AKS, GKE, Rancher, OpenShift)  
-- **Infrastructure as Code (IaC)**: Terraform, Ansible, Helm, Pulumi  
+- **End-to-End Deployments**: Skilled in handling complete deployments from code to production  
+- **Containerization & Orchestration**: Docker, Kubernetes (EKS, AKS, GKE, kubeadm, Rancher, OpenShift)  
 - **Cloud Platforms**: AWS, Azure, GCP, DigitalOcean, Oracle Cloud, Alibaba Cloud, Hetzner, Firebase, Cloudflare  
 - **Monitoring & Logging**: Grafana, Prometheus, ELK Stack, Loki, CloudWatch  
-- **Security & Compliance**: IAM, WAF, SSL/TLS, Zero Trust, MFA/SSO, Secrets Management (Vault, KMS, SSM)  
-- **Automation & Scripting**: Bash, Python, PowerShell, Go  
-- **Networking**: VPC, VPNs, DNS, Load Balancers, Firewalls  
-- **End-to-End Deployments**: Capable of handling complete deployments from code to production, across multi-cloud environments  
+- **Security & Compliance**: IAM, WAF, SSL/TLS, Zero Trust, MFA/SSO, Vault, KMS, SSM  
+- **Automation & Scripting**: Bash, Python, Go, PowerShell  
 
 <br/>
 
 <h3 align="left">🔧 CI/CD Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,azure,argo" />
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=argo,flux" />
+    <img src="https://skillicons.dev/icons?i=circleci" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">⚙️ Infrastructure as Code (IaC)</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,puppet,chef" />
+    <img src="https://skillicons.dev/icons?i=pulumi" />
   </a>
 </p>
 
