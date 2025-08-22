@@ -1,91 +1,47 @@
 ## Hi there 👋
 
-<!--
-**Afaq-DevOps/Afaq-DevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi 👋, Muhammad Afaq Nasir</h1>
-<h3 align="center">Senior DevOps Engnieer from Pakistan</h3>
+<h3 align="center">Senior DevOps Engineer from Pakistan</h3>
 <p align="center">With a deep passion for software engineering, I’m dedicated to exploring new technologies and leveraging modern tech stacks to build scalable, efficient, and impactful solutions. Always keen on innovating and solving complex challenges with a focus on creating high-quality software.</p>
-<!-- <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div> -->
-
-<br>
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <p align="left"> -->
-<!-- <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a> -->
-<!-- <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a> -->
-<!-- <a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
-</p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Backend  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,py,fastapi,express,nestjs,graphql" />
   </a>
 </p>
 
-- Frontend
+- Frontend  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
-- Database
+- Database  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
+- Cloud Servers  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
 </p>
 
-- Tools
+- Tools  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux" />
   </a>
 </p>
 
@@ -93,3 +49,39 @@ Here are some ideas to get you started:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">🚀 DevOps & Cloud Expertise</h3>
+
+- **CI/CD Tools**: Jenkins, GitHub Actions, GitLab CI, CircleCI, Azure DevOps Pipelines, ArgoCD, Spinnaker, Harness  
+- **Containerization & Orchestration**: Docker, Kubernetes (kubeadm, EKS, AKS, GKE, Rancher, OpenShift)  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible, Helm, Pulumi  
+- **Cloud Platforms**: AWS, Azure, GCP, DigitalOcean, Oracle Cloud, Alibaba Cloud, Hetzner, Firebase, Cloudflare  
+- **Monitoring & Logging**: Grafana, Prometheus, ELK Stack, Loki, CloudWatch  
+- **Security & Compliance**: IAM, WAF, SSL/TLS, Zero Trust, MFA/SSO, Secrets Management (Vault, KMS, SSM)  
+- **Automation & Scripting**: Bash, Python, PowerShell, Go  
+- **Networking**: VPC, VPNs, DNS, Load Balancers, Firewalls  
+- **End-to-End Deployments**: Capable of handling complete deployments from code to production, across multi-cloud environments  
+
+<br/>
+
+<h3 align="left">🔧 CI/CD Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,azure,argo" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">🎓 Certifications</h3>
+
+- ✅ **Certified Kubernetes Security Specialist (CKS)**  
+- ✅ **AWS Certified DevOps Engineer – Professional**  
+- ✅ **Microsoft Certified: Azure DevOps Engineer Expert**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-CKS-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-DevOps%20Professional-FF9900?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-DevOps%20Expert-0078D4?logo=microsoftazure&logoColor=white" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
