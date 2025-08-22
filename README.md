@@ -6,6 +6,15 @@
 
 <br>
 
+<h3 align="left">🚀 DevOps & Cloud Expertise</h3>
+
+- **End-to-End Deployments**: Skilled in handling complete deployments from code to production  
+- **Containerization & Orchestration**: Docker, Kubernetes (EKS, AKS, GKE, kubeadm, Rancher, OpenShift)  
+- **Cloud Platforms**: AWS, Azure, GCP, DigitalOcean, Oracle Cloud, Alibaba Cloud, Hetzner, Firebase, Cloudflare  
+- **Monitoring & Logging**: Grafana, Prometheus, ELK Stack, Loki, CloudWatch  
+- **Security & Compliance**: IAM, WAF, SSL/TLS, Zero Trust, MFA/SSO, Vault, KMS, SSM  
+- **Automation & Scripting**: Bash, Python, Go, PowerShell 
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,19 +56,6 @@
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">🚀 DevOps & Cloud Expertise</h3>
-
-- **End-to-End Deployments**: Skilled in handling complete deployments from code to production  
-- **Containerization & Orchestration**: Docker, Kubernetes (EKS, AKS, GKE, kubeadm, Rancher, OpenShift)  
-- **Cloud Platforms**: AWS, Azure, GCP, DigitalOcean, Oracle Cloud, Alibaba Cloud, Hetzner, Firebase, Cloudflare  
-- **Monitoring & Logging**: Grafana, Prometheus, ELK Stack, Loki, CloudWatch  
-- **Security & Compliance**: IAM, WAF, SSL/TLS, Zero Trust, MFA/SSO, Vault, KMS, SSM  
-- **Automation & Scripting**: Bash, Python, Go, PowerShell  
-
-<br/>
-
 <h3 align="left">🔧 CI/CD Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -80,6 +76,8 @@
 </p>
 
 <br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">🎓 Certifications</h3>
 
