@@ -56,7 +56,7 @@
 
 <br/>
 
-<h3 align="left">🔧 CI/CD Tools</h3>
+- CI/CD Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,bitbucket" />
@@ -67,7 +67,7 @@
 
 <br/>
 
-<h3 align="left">⚙️ Infrastructure as Code (IaC)</h3>
+- Infrastructure as Code (IaC)
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=terraform,ansible,puppet,chef" />
