@@ -1,6 +1,9 @@
 <div align="center">
 
 # M U H A M M A D   A F A Q   N A S I R
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CAF50&background=00000000&width=500&height=50&lines=System+Status%3A+Operational;SLO+Target%3A+99.99%25+Uptime;Deploying+Infrastructure+as+Code...;Platform+Engineering++SRE++DevOps" alt="Typing Effect" >
+</div>
 
 **Senior DevOps, Platform & Distributed Systems Engineer**
 
@@ -66,6 +69,7 @@ I am a certified Multi-Cloud DevOps and Platform Engineer with over 6 years of e
 * **Infrastructure as Code (IaC)**: Terraform (Enterprise-grade), Ansible, AWS CloudFormation
 
 ---
+
 
 ## 📂 Strategic Production Projects
 
