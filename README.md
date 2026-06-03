@@ -100,7 +100,6 @@ I am a certified Multi-Cloud DevOps and Platform Engineer with over 6 years of e
   <img src="https://img.shields.io/badge/Azure-DevOps%20Expert-0078D4?logo=microsoftazure&logoColor=white" />
 </p>
 
-* ✅ **Certified Kubernetes Security Specialist (CKS)**
 * ✅ **Certified Kubernetes Administrator (CKA)**
 * ✅ **AWS Certified DevOps Engineer – Professional**
 * ✅ **Microsoft Certified: Azure DevOps Engineer Expert**
