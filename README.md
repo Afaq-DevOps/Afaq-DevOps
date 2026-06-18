@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-nasir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afaq-DevOps)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21337896/muhammad-afaq-nasir)
+[![Credly](https://img.shields.io/badge/Credly-28A745?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/muhammadafaqnasir)
 
 </div>
 
@@ -95,18 +96,22 @@ I am a certified Multi-Cloud DevOps and Platform Engineer with over 6 years of e
 ### 📜 Verified Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-CKS-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-DevOps%20Professional-FF9900?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-DevOps%20Expert-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20(004)-844FBA?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-DevOps%20Engineer%20Expert-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Administrator%20Associate-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-F80000?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white" />
 </p>
 
-* ✅ **Certified Kubernetes Administrator (CKA)**
-* ✅ **AWS Certified DevOps Engineer – Professional**
-* ✅ **Microsoft Certified: Azure DevOps Engineer Expert**
-* ✅ **HashiCorp Certified: Terraform Associate (004)**
-* ✅ **Microsoft Certified: Azure Administrator Associate**
-* ✅ **Oracle Cloud Infrastructure Certified Foundations Associate**
-* ✅ **AWS Certified Cloud Practitioner**
+- ✅ **HashiCorp Certified: Terraform Associate (004)**
+- ✅ **Certified Kubernetes Administrator (CKA)**
+- ✅ **AWS Certified DevOps Engineer – Professional**
+- ✅ **Microsoft Certified: Azure DevOps Engineer Expert**
+- ✅ **Microsoft Certified: Azure Administrator Associate**
+- ✅ **Oracle Cloud Infrastructure Certified Foundations Associate**
+- ✅ **AWS Certified Cloud Practitioner**
 
 ---
 
